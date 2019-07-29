@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="67.117348mm"
-   height="9.5084629mm"
-   viewBox="0 0 67.117347 9.508463"
+   width="58mm"
+   height="18.5mm"
+   viewBox="0 0 57.999999 18.5"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="132.12212"
-     inkscape:cy="-33.253937"
+     inkscape:cx="127.82897"
+     inkscape:cy="-2.9493603"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,18 +56,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-36.397922,-122.8268)">
+     transform="translate(-36.397922,-113.83526)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="35.529758"
-       y="131.44643"
-       id="text3715"><tspan
+       style="font-style:normal;font-weight:normal;font-size:16.459095px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41147736"
+       x="66.077774"
+       y="127.70677"
+       id="text3715"
+       transform="scale(0.98923005,1.0108872)"><tspan
          sodipodi:role="line"
          id="tspan3713"
-         x="35.529758"
-         y="131.44643"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Headline R';-inkscape-font-specification:'Headline R';stroke-width:0.26458332">Melon ASR</tspan></text>
+         x="66.077774"
+         y="127.70677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Headline R';-inkscape-font-specification:'Headline R';text-align:center;text-anchor:middle;stroke-width:0.41147736">Melon</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3717"
