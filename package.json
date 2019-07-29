@@ -12,7 +12,8 @@
     "lazysizes": "^4.0.1",
     "normalize.css": "^7.0.0",
     "picturefill": "^3.0.2",
-    "velocity-animate": "^1.5.0"
+    "velocity-animate": "^1.5.0",
+    "watchy": "^0.9.7"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
