@@ -2,7 +2,7 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: "ko-KR" }}">
 
 {% include head.html %}
 
@@ -48,7 +48,7 @@ layout: compress
               {% if words < 360 %}
                 1 min
               {% else %}
-                {{ words | divided_by:180 }} mins
+                {{ words | divided_by:36 }} mins
             {% endif %} read
         </span>
       </p>
