@@ -22,7 +22,7 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 
 email: ohjs@u.sogang.ac.kr # email for form submission
 
-github_username :melon1024
+github_username : melon1024
 
 disqus:
   shortname: melon1024 # to enable comments replace with your_disqus_shortname
