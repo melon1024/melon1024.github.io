@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: 한글 이미지
 featured-img: sleek
 mathjax: true
 ---
-
+# 한글이 안되면 뭔소용이냐;; 
 # Getting started
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
