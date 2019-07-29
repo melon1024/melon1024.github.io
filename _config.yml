@@ -13,7 +13,7 @@ social:
   # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Category', linkg :'/category'}
+  - {name: 'Category', link :'/category'}
 
 
 tagline: >
