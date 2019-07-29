@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="58mm"
-   height="18.5mm"
-   viewBox="0 0 57.999999 18.5"
+   width="58"
+   height="18"
+   viewBox="0 0 15.345833 4.7625002"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="127.82897"
-     inkscape:cy="-2.9493603"
+     inkscape:zoom="21.915522"
+     inkscape:cx="26.610849"
+     inkscape:cy="19.104756"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -56,19 +57,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-36.397922,-113.83526)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.459095px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.41147736"
-       x="66.077774"
-       y="127.70677"
-       id="text3715"
-       transform="scale(0.98923005,1.0108872)"><tspan
-         sodipodi:role="line"
-         id="tspan3713"
-         x="66.077774"
-         y="127.70677"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Headline R';-inkscape-font-specification:'Headline R';text-align:center;text-anchor:middle;stroke-width:0.41147736">Melon</tspan></text>
+     transform="translate(-36.397922,-127.57276)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3717"
@@ -80,5 +69,16 @@
            height="40.911179"
            x="130.81476"
            y="463.39514" /></flowRegion><flowPara
-         id="flowPara3723"></flowPara></flowRoot>  </g>
+         id="flowPara3723"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.82464981px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39561623"
+       x="36.247372"
+       y="131.91792"
+       id="text3737"><tspan
+         sodipodi:role="line"
+         id="tspan3735"
+         x="36.247372"
+         y="131.91792"
+         style="font-size:5.27488327px;stroke-width:0.39561623">Melon</tspan></text>
+  </g>
 </svg>
