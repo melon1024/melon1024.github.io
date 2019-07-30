@@ -33,7 +33,7 @@ Git repository : [https://github.com/WittmannF/sort-google-scholar](https://gith
 
 일단 코드 전문을 올린다.
 
-~~~
+{% highlight python  %}
 # -*- coding: utf-8 -*-
 """
 This code creates a database with a list of publications data from Google 
@@ -148,8 +148,7 @@ plt.title('Keyword: '+keyword)
 if save_database:
     data_ranked.to_csv(path, encoding='utf-8') # Change the path
         
-
-~~~
+{% endhighlight %}
 
 ### pip install
 
