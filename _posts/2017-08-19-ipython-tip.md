@@ -179,7 +179,7 @@ if save_database:
 
 내가 미쳤다고 검색할때마다 이걸 열어서 변수를 바꾸고 검색하겠는가. `python filename.py "keyword"`를 통해서 커맨드라인으로 검색할 수 있게 바꾸자. 코드의 앞쪽 부분에 아래와 같이 `sys`를 `import`해준다.
 
-~~~
+~~~python
 import requests
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
@@ -189,7 +189,7 @@ import sys #modified
 
 그리고 `line 51`부근을 아래와 같이 수정하자.
 
-~~~
+~~~python
 # Update these variables according to your requirement
 keyword = sys.argv[1] # the double quote will look for the exact keyword,
                       # the simple quote will also     look for similar keywords
@@ -204,7 +204,7 @@ CSV파일을 통해서 피인용수로 정렬된 결과를 얻을 수 있는데 
 
 원래 파일의 `line 53`을 보면 아래와 같은 코드가 있다.
 
-~~~
+~~~python
 number_of_results = 100 # number of results to look for on Google Scholar
 save_database = False # choose if you would like to save the database to .csv
 path = 'C:/_wittmann/nilm_100_exact_author.csv' # path to save the data
@@ -212,7 +212,7 @@ path = 'C:/_wittmann/nilm_100_exact_author.csv' # path to save the data
 
 이를 다음과 같이 바꿔주자
 
-~~~
+~~~python
 number_of_results = 100 # number of results to look for on Google Scholar
 save_database = True # choose if you would like to save the database to .csv
 path = './'+keyword+'_result_sorted_by_citation.csv' # path to save the data
@@ -224,7 +224,7 @@ path = './'+keyword+'_result_sorted_by_citation.csv' # path to save the data
 
 ### 최종 소스코드
 
-~~~
+~~~python
 #my_search.py
 # -*- coding: utf-8 -*-
 """
