@@ -852,14 +852,14 @@ button:disabled {
   font-size: .75rem;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: rgba(255, 255, 255, 0.8);
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  color: rgba(210, 210, 210, 0.9);
+  border: 1px solid rgba(210, 210, 210, 0.5);
   border-radius: 100px;
   transition: all 0.2s ease; }
   .label:focus, .label:hover {
     color: #fff;
     background-color: #277cea;
-    border: 2px solid #277cea; }
+    border: 1px solid #277cea; }
 
 .pagination {
   display: flex;
