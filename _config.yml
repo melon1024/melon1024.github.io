@@ -4,7 +4,7 @@ author: Melon # You :P
 description: > # Meta description of Homepage
     Machine Learning and Automatic Speech Recognition BLOG
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://melon1024.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://melon1024.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
