@@ -1,7 +1,7 @@
 ---      
 layout: post 
 title: "윈도우즈 10에서 부분 캡쳐(스크린샷) 찍기" 
-featured-img: windows_logo
+featured-img: windows_log
 categories: [windows,screenshot,윈도우,스크린샷] 
 mathjax: true
 ---    
