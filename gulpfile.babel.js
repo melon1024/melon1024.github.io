@@ -133,7 +133,7 @@ gulp.task( "sw", () => {
 
 // Images
 gulp.task( "img", () => {
-  return gulp.src( "_img/posts/*.{jpg}" )
+  return gulp.src( "_img/posts/*.{png,jpg}" )
     .pipe( responsive( {
         "*": [ // For all the images in the posts folder
           {
