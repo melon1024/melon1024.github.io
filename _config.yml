@@ -40,6 +40,8 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     css_class: 'highlight'
+    default_lang : 'python'
+    guess_lang : true
     span:      
         line_numbers: false
     block:
